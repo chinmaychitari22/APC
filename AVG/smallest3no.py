@@ -3,8 +3,8 @@ b = int(input("Enter second number: "))
 c = int(input("Enter third number: "))
 
 if a <= b and a <= c:
-    print("Smallest =", a)
+    print("Smallest =",a)
 elif b <= a and b <= c:
-    print("Smallest =", b)
+    print("Smallest =",b)
 else:
-    print("Smallest =", c)
+    print("Smallest =",c)
